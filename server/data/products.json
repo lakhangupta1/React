@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic Tee",
+    "price": 29.99,
+    "description": "Comfortable cotton tee",
+    "image": "/placeholder-product.png",
+    "stock": 12
+  },
+  {
+    "id": "p2",
+    "title": "Sneakers",
+    "price": 79.99,
+    "description": "Stylish running shoes",
+    "image": "/placeholder-product.png",
+    "stock": 5
+  }
+]
