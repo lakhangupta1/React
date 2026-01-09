@@ -11,6 +11,7 @@ axiosClient.interceptors.request.use((config) => {
   return config;
 });
 
+// user Api with axios 
 const userApi = {
   getUsers: () => axiosClient.get("/users"),
   addUser: (userData) => axiosClient.post("/users", userData),
